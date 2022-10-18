@@ -1,0 +1,32 @@
+{
+  "compilerOptions": {
+    "noImplicitAny": false,
+    "noEmitOnError": true,
+    "removeComments": false,
+    "sourceMap": true,
+    "target": "es5"
+  },
+  "exclude": [
+    "node_modules",
+    "wwwroot"
+  ]
+  {
+    "StockMarket": [
+      {
+        "shareName": "Jio",
+        "numberOfShare": 7,
+        "sharePrice": 230
+      },
+      {
+        "shareName": "Tata",
+        "numberOfShare": 9,
+        "sharePrice": 555
+      },
+      {
+        "shareName": "Bajaj",
+        "numberOfShare": 3,
+        "sharePrice": 143
+      }
+    ]
+  }
+}
